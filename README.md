@@ -16,3 +16,4 @@ Complete Todo App with CRUD Operations
 5. `npm install`
 6. `node index.js`
 
+![image](https://github.com/Archit1706/Todo-App/assets/75872913/35126ea8-0a7e-4a67-ba2f-17f0b61b9b05)
